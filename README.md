@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moghadaszadeh&show_icons=true&theme=transparent)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moghadaszadeh&theme=transparent)](https://github.com/moghadaszadeh/github-readme-stats)
-
-
-<a href="https://github.com/moghadaszadeh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moghadaszadeh&repo=github-readme-stats" />
-</a>
